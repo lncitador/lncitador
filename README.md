@@ -6,15 +6,28 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Javascript, Typescript, React and React Native, Angular, HTML, CSS, Python, Ruby.</strong>
+  <b>
+  🙋‍♂️ About me:
+  </b>
+<p>
+
+<p align="left"> 
+  <i> I started in the programming world in the middle of 2013 when I met Ruby through the RPG Maker, but only now I focused on learning once, my first language was Ruby and then Python, but it was in Javascript that I found a love in programming, today I am a GoStack 11 student at Rocketseat.</i>
+</p>
+
+
+<p align="left">
+  👨‍🔧 Skills: <strong>Javascript, Typescript, React and React Native, Angular, HTML, CSS, Python, Ruby.</strong>
+</p>
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lncitador&hide=scss&layout=compact&theme=tokyonight)
+
+<p align="left">
+  🛠 Tools: <strong>Visual Studio Code, Android Studio, AWS CLI, Docker, Docker-Compose, Docker-Machine, Git e GitHub.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Android Studio, AWS CLI, Docker, Docker-Compose, Docker-Machine, Git e GitHub.</strong>
-</p>
-
-<p align="left">
-  💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
+  📩 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message:
 </p>
 
 <p align="left">
