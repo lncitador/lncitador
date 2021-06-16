@@ -40,7 +40,7 @@
   <a href="https://www.facebook.com/lncitador/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/lncitador/"/></a>
 
-  <a href="https://wa.me/5591993012799/" alt="WhatsApp">
+  <a href="https://wa.me/5591991430969/" alt="WhatsApp">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
   </a>
 </p> 
