@@ -8,7 +8,7 @@
 <h5 align="center">
   <code>
     <a target="_blank" href="https://www.linkedin.com/in/lncitador/" title="LinkedIn"> 
-      <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> lncitador</a>
+      <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> Linked.In/lncitador</a>
   </code>
 </h5>
 
