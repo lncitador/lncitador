@@ -1,6 +1,6 @@
 <div align='center'>
 <h2 align='center'> 
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px" /> Hey guys, I'm Walaff Fernandes! 👋
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="24px" /> Hey guys, I'm Walaff Fernandes! 👋
 </h2>
  <p align='center'><i>❝knowledge is the only thing you've acquired in your life that can't rob you❞</i></p>
 </div>
