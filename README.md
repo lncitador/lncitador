@@ -24,7 +24,7 @@ I started in the programming world in the middle of 2013 when I met Ruby through
 
 <p align="center">
   <a href="https://github.com/lncitador">
-    <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=lncitador&show_icons=true" /> <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lncitador&layout=compact" />
+    <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=lncitador&show_icons=true&theme=gotham" /> <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lncitador&layout=compact&theme=gotham" />
   </a>
 </p>
 <br />
