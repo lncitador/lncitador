@@ -18,7 +18,7 @@
 
 I started in the programming world in the middle of 2013 when I met Ruby through the RPG Maker, but only now I focused on learning once, my first language was Ruby and then Python, but it was in Javascript that I found a love in programming, today I am a GoStack 11 student at Rocketseat.
 
-## Stacks 🧑🏽‍💻
+## Skills 🧑🏽‍💻
  
 <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' /> <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' /> <img src='https://img.shields.io/badge/Ruby-880924?style=for-the-badge&logo=ruby&logoColor=white' /> <img src='https://img.shields.io/badge/Kotlin-64ffb1?style=for-the-badge&logo=kotlin&logoColor=white' /> <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' /> <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' /> <img src='https://img.shields.io/badge/React--JS_and_React--Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' /> <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white' /> <img src='https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white' /> <img src='https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white' /> <img src='https://img.shields.io/badge/kubernetes-047adc?style=for-the-badge&logo=kubernetes&logoColor=white' /> <img src='https://img.shields.io/badge/Serveless-9de60b?style=for-the-badge&logo=serverless&logoColor=black' />
 
