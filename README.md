@@ -39,7 +39,7 @@ I started in the programming world in the middle of 2013 when I met Ruby through
 <hr />
 
 <p align="left">
-  📩 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message:
+  📩 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message
 </p>
 
 <p align="left">
