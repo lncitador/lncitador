@@ -1,6 +1,7 @@
 <div align='center'>
+<img src="https://c.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif" />
 <h2 align='center'> 
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="24px" /> Hey guys, I'm Walaff Fernandes! 👋
+  Hey guys, I'm Walaff Fernandes! 👋
 </h2>
  <p align='center'><i>❝knowledge is the only thing you've acquired in your life that can't rob you❞</i></p>
 </div>
