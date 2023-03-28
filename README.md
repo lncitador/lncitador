@@ -17,7 +17,7 @@
 
 ## About Me 💬
 
-I started in the programming world in the middle of 2013 when I met Ruby through the RPG Maker, but only now I focused on learning once, my first language was Ruby and then Python, but it was in Javascript that I found a love in programming, today I am a GoStack 11 student at Rocketseat.
+I started in the world of programming in mid 2013 when I met Ruby through RPG Maker, but only now I focused on learning once, my first language was Ruby and then Python, but it was in Javascript with Typescript that I found a love in programming.
 
 ## Skills 🧑🏽‍💻
  
