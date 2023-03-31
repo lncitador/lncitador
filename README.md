@@ -6,12 +6,12 @@
  <p align='center'><i>❝knowledge is the only thing you've acquired in your life that can't rob you❞</i></p>
 </div>
 
-<h5 align="center">
+<!-- <h5 align="center">
   <code>
     <a target="_blank" href="https://www.linkedin.com/in/lncitador/" title="LinkedIn"> 
       <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> Linked.In/lncitador</a>
   </code>
-</h5>
+</h5> -->
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
 
@@ -23,20 +23,12 @@ I started in the world of programming in mid 2013 when I met Ruby through RPG Ma
  
 <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' /> <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' /> <img src='https://img.shields.io/badge/Ruby-880924?style=for-the-badge&logo=ruby&logoColor=white' /> <img src='https://img.shields.io/badge/Kotlin-64ffb1?style=for-the-badge&logo=kotlin&logoColor=white' /> <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' /> <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' /> <img src='https://img.shields.io/badge/React--JS_and_React--Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' /> <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white' /> <img src='https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white' /> <img src='https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white' /> <img src='https://img.shields.io/badge/kubernetes-047adc?style=for-the-badge&logo=kubernetes&logoColor=white' /> <img src='https://img.shields.io/badge/Serveless-9de60b?style=for-the-badge&logo=serverless&logoColor=black' />
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/lncitador">
     <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=lncitador&show_icons=true&theme=gotham" /> <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lncitador&layout=compact&theme=gotham" />
   </a>
-</p>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+</p> -->
+
 <hr />
 
 <p align="left">
